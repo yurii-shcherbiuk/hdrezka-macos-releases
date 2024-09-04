@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>HDrezka</title>
+        <link>https://hdrezka_macos.t.me/</link>
+        <item>
+            <title>2.9</title>
+            <pubDate>Wed, 04 Sep 2024 14:20:20 +0300</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/2.9/HDrezka.dmg" length="13860187" type="application/octet-stream" sparkle:edSignature="7dNk1VatcGXknSZdmu6M5k+3f/nzkDjXqu2g6vWYurGEz3qBGPB9s/bQOTHUoVft/356mJRhVOqxSwxyedVMDA=="/>
+        </item>
+    </channel>
+</rss>
