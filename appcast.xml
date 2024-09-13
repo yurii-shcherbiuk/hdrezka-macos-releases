@@ -4,6 +4,14 @@
         <title>HDrezka</title>
         <link>https://hdrezka_macos.t.me/</link>
         <item>
+            <title>3.0</title>
+            <pubDate>Fri, 13 Sep 2024 13:02:26 +0300</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/3.0/HDrezka.dmg" length="13915201" type="application/octet-stream" sparkle:edSignature="MyzevHkBmPiv1C4ALSho2uLA+N0/juKldn7yjYAzqCf3MzW06h/QiAOjnl8VWRTDQqczqgxfhV8A5xkIcdWCCA=="/>
+        </item>
+        <item>
             <title>2.9</title>
             <pubDate>Wed, 04 Sep 2024 14:20:20 +0300</pubDate>
             <sparkle:version>20</sparkle:version>

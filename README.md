@@ -1,1 +1,1 @@
-# hdrezka-releases
+# HDrezka Releases
