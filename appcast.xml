@@ -9,7 +9,7 @@
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/3.2/HDrezka.dmg" length="13982713" type="application/octet-stream" sparkle:edSignature="yRRC3qB4uXT+QC/CFi951VgtH5DRG6xaLQSWi4B7HDlz+J5bvcXVStu9Rg4l7UDtb976qWJXVX5sPoLpbgGIBQ=="/>
+            <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/3.2/HDrezka.dmg" length="13982214" type="application/octet-stream" sparkle:edSignature="lZA9Auk7Szy/a2M9ESCmZgdBGCuGAAVeAsmTNrPkFUhkTmuV7dReTI4hCD6tsecb4pTtziZGQxb+2C2oTxOLCg=="/>
         </item>
         <item>
             <title>3.1</title>
