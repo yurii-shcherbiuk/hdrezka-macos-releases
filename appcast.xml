@@ -4,6 +4,14 @@
         <title>HDrezka</title>
         <link>https://hdrezka_macos.t.me/</link>
         <item>
+            <title>4.9</title>
+            <pubDate>Sat, 05 Apr 2025 12:31:27 +0300</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/4.9/HDrezka.dmg" length="12814875" type="application/octet-stream" sparkle:edSignature="eK0ajSPzexC4dezOylh1oelWZgcsjbVMxTb6oWye9c2l/PBmbfX4Vs2Oz7MI/z8YbDCfewv2Ccjh84NlHnfBCA=="/>
+        </item>
+        <item>
             <title>4.8</title>
             <pubDate>Sat, 29 Mar 2025 13:52:54 +0200</pubDate>
             <sparkle:version>39</sparkle:version>
@@ -18,14 +26,6 @@
             <sparkle:shortVersionString>4.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/4.7/HDrezka.dmg" length="12459749" type="application/octet-stream" sparkle:edSignature="vZMzoFgk2b03H6fZKnGYGhc1tv1R48Kt5qCc1Sg6qLUz0ijKFJZLvCBeidH3vyIQOLXOsimawsdlVjeR7uJWCg=="/>
-        </item>
-        <item>
-            <title>4.6</title>
-            <pubDate>Fri, 21 Mar 2025 16:38:56 +0200</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>4.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/4.6/HDrezka.dmg" length="12425988" type="application/octet-stream" sparkle:edSignature="caw4LreXSDQEBCoxhO5ElbYiDNxtl6lsZmUSwod1FL4unZ1S/K44bchPODVNhs0IWMnCevtKb3fS1BPsqf2DAQ=="/>
         </item>
     </channel>
 </rss>
