@@ -1,1 +1,1 @@
-# HDrezka Releases
+# HDrezka macOS Releases
