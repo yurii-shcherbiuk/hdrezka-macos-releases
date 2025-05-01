@@ -9,23 +9,7 @@
             <sparkle:version>44</sparkle:version>
             <sparkle:shortVersionString>5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/5.3/HDrezka.dmg" length="12835703" type="application/octet-stream" sparkle:edSignature="bbq4LDMOIN3XoaCgfK46drS2WWgQG1u5DS1io4SNX/QgJiWz6Vj9hAIbwTl4k/kgTfjv8VrEcmNqJyPhzoNZAg=="/>
-        </item>
-        <item>
-            <title>5.2</title>
-            <pubDate>Sun, 20 Apr 2025 13:27:55 +0300</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>5.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/5.2/HDrezka.dmg" length="12846822" type="application/octet-stream" sparkle:edSignature="OcEl4hK7gShFDdH5MFxx5rq/i+zgFAJyP1f4TvgyQe+tYdYVsteuD1FCFUWRQGYlTuiFUKlLPcNeDwaKKFXyAg=="/>
-        </item>
-        <item>
-            <title>5.1</title>
-            <pubDate>Sat, 19 Apr 2025 23:07:43 +0300</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/5.1/HDrezka.dmg" length="12846915" type="application/octet-stream" sparkle:edSignature="zM204+bChJfoDT2c1p+452WaSwjk1WvhDHKm4MERq0Vr1ZNSHEkx78Tiu+o/ptut+AO1EcgoqUARCL6rIR/FDw=="/>
+            <enclosure url="https://github.com/yurii-shcherbiuk/hdrezka-releases/releases/download/latest/HDrezka.dmg" length="12835703" type="application/octet-stream" sparkle:edSignature="bbq4LDMOIN3XoaCgfK46drS2WWgQG1u5DS1io4SNX/QgJiWz6Vj9hAIbwTl4k/kgTfjv8VrEcmNqJyPhzoNZAg=="/>
         </item>
     </channel>
 </rss>
