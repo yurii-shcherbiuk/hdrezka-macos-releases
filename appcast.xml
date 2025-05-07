@@ -4,12 +4,12 @@
         <title>HDrezka</title>
         <link>https://hdrezka_macos.t.me/</link>
         <item>
-            <title>5.4</title>
-            <pubDate>Thu, 01 May 2025 20:46:08 +0300</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>5.4</sparkle:shortVersionString>
+            <title>5.5</title>
+            <pubDate>Wed, 07 May 2025 12:44:27 +0300</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>5.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://yurii-shcherbiuk.github.io/hdrezka-releases/HDrezka.dmg" length="12879174" type="application/octet-stream" sparkle:edSignature="Azr0rsn7nLOWXD1hoNRCIoSwwzN32X7A4h9iJXiZnNDiZ4ys7b3WC60m/Z84G57Vw+IWOV+jvGVMlN6hC8z0Cw=="/>
+            <enclosure url="https://yurii-shcherbiuk.github.io/hdrezka-releases/HDrezka.dmg" length="12921899" type="application/octet-stream" sparkle:edSignature="Gu8JkczRoQiCWBbswYvUP0rrO5xAMDJZAfe4JMtPYQ0/iNePUTqC08fyEbZUMNdiuYePVtI180lTPrQHaH6xCw=="/>
         </item>
     </channel>
 </rss>
