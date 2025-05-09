@@ -9,7 +9,7 @@
             <sparkle:version>46</sparkle:version>
             <sparkle:shortVersionString>5.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://yurii-shcherbiuk.github.io/hdrezka-macos-releases/HDrezka.dmg" length="12921899" type="application/octet-stream" sparkle:edSignature="Gu8JkczRoQiCWBbswYvUP0rrO5xAMDJZAfe4JMtPYQ0/iNePUTqC08fyEbZUMNdiuYePVtI180lTPrQHaH6xCw=="/>
+            <enclosure url="https://yurii-shcherbiuk.github.io/hdrezka-releases/HDrezka.dmg" length="12921899" type="application/octet-stream" sparkle:edSignature="Gu8JkczRoQiCWBbswYvUP0rrO5xAMDJZAfe4JMtPYQ0/iNePUTqC08fyEbZUMNdiuYePVtI180lTPrQHaH6xCw=="/>
         </item>
     </channel>
 </rss>
